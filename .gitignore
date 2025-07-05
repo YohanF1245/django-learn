@@ -1,0 +1,23 @@
+# === Python ===
+**/__pycache__/
+**/*.py[cod]
+*$py.class
+*.pyo
+
+# === Django ===
+*.log
+*.pot
+*.pyc
+*.pyd
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+local_settings.py
+
+.env
+
+.vscode
+
+db.sqlite3
+sqlite3.exe
